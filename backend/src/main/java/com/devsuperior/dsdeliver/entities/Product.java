@@ -10,20 +10,19 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "tb_product")
-public class Product implements Serializable {
+public class Product implements Serializable{
 
 	private static final long serialVersionUID = 1L;
-		
+	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY )
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	private String name;
 	private Double price;
-	private String description; 
+	private String description;
 	private String imageUri;
 	
-	public Product () {
-		
+	public Product() {
 	}
 
 	public Product(Long id, String name, Double price, String description, String imageUri) {
@@ -34,7 +33,7 @@ public class Product implements Serializable {
 		this.description = description;
 		this.imageUri = imageUri;
 	}
-
+	
 	public Long getId() {
 		return id;
 	}
@@ -99,6 +98,5 @@ public class Product implements Serializable {
 			return false;
 		return true;
 	}
-	
 	
 }
