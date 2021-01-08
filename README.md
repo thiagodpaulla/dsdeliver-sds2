@@ -7,26 +7,26 @@ Projeto da Semana DevSuperior 2.0	   DSDeliver - Semana DevSuperior 2.0
 </div>
 
 <h3 align="center">
-   <a href="https://github.com/mathrb22">
-      <img alt="Made by mathrb22" src="https://img.shields.io/badge/made%20by-mathrb22-yellow">
+   <a href="https://github.com/thiagodpaulla">
+      <img alt="Made by Thiago d Paulla" src="https://img.shields.io/badge/made%20by-thiagodpaulla-yellow">
    </a>
 
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mathrb22/DSDeliver-sds2">
+   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/thiagodpaulla/DSDeliver-sds2">
 
-   <a href="https://github.com/mathrb22/DSDeliver-sds2/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mathrb22/DSDeliver-sds2">
+   <a href="https://github.com/thiagodpaulla/DSDeliver-sds2/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/thiagodpaulla/DSDeliver-sds2">
    </a>
 
-   <a href="https://github.com/mathrb22/DSDeliver-sds2/issues">
-      <img alt="GitHub Issues" src="https://img.shields.io/github/issues/mathrb22/DSDeliver-sds2">
+   <a href="https://github.com/thiagodpaulla/DSDeliver-sds2/issues">
+      <img alt="GitHub Issues" src="https://img.shields.io/github/issues/thiagodpaulla/DSDeliver-sds2">
    </a>
 
-   <a href="https://github.com/mathrb22/DSDeliver-sds2/pulls">
+   <a href="https://github.com/thiagodpaulla/DSDeliver-sds2/pulls">
       <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
    </a>
 
-   <a href="https://github.com/mathrb22/DSDeliver-sds2/blob/master/LICENSE">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/DSDeliver-sds2">
+   <a href="https://github.com/thiagodpaulla/DSDeliver-sds2/blob/master/LICENSE">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/thiagodpaulla/DSDeliver-sds2">
    </a>
    </br>
    </br>
