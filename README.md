@@ -3,7 +3,7 @@ Projeto da Semana DevSuperior 2.0	   DSDeliver - Semana DevSuperior 2.0
 </h2>
 
 <div align="center">
-   <img alt="DSDeliver" title="#logo" src=".github/img/DSDeliver-Home.png" width="75%" />
+   <img alt="DSDeliver" title="#logo" src="https://github.com/thiagodpaulla/dsdeliver-sds2/blob/main/DSDeliver-Home.png" width="75%" />
 </div>
 
 <h3 align="center">
