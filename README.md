@@ -88,7 +88,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 📟 Layout
 
 O layout das telas da aplicação **DSDeliver** foi desenvolvido pela equipe da [**DevSuperior**](https://github.com/DevSuperior/) através da ferramenta online [**Figma**](https://www.figma.com), um software de prototipação voltado para **UI Design (design de interface)**.
-Você pode acessar o layout através deste link: [**DSDeliver**](https://www.figma.com/file/LAIvIzyaJsSl2A9NMrnR7W/DSDeliver01).
+Você pode acessar o layout através deste link: [**DSDeliver**](https://github.com/thiagodpaulla/dsdeliver-sds2/blob/main/Layouts-Figma.png).
 
 <figure>
 <div align="center">
