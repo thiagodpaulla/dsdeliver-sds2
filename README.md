@@ -3,7 +3,7 @@ Projeto da Semana DevSuperior 2.0	   DSDeliver - Semana DevSuperior 2.0
 </h2>
 
 <div align="center">
-   <img alt="DSDeliver" title="#logo" src=".github/img/DSDeliver-Home.png" width="75%" />
+   <img alt="DSDeliver" title="#logo" src="https://github.com/thiagodpaulla/dsdeliver-sds2/blob/main/DSDeliver-Home.png" width="75%" />
 </div>
 
 <h3 align="center">
@@ -92,14 +92,11 @@ Você pode acessar o layout através deste link: [**DSDeliver**](https://www.fig
 
 <figure>
 <div align="center">
-  <img src=".github/img/Layouts-Figma.png"  alt="imagem mockup">
+  <img src="https://github.com/thiagodpaulla/dsdeliver-sds2/blob/main/Layouts-Figma.png"  alt="imagem mockup">
   <figcaption>Layouts das telas da aplicação</figcaption>
 </div>
 </figure>
 
-## 🔧 Instalação e execução
-
-🚧 Em breve... 🚧
 
 ## 💡 Como contribuir
 
