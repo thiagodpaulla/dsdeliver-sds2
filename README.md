@@ -97,9 +97,6 @@ Você pode acessar o layout através deste link: [**DSDeliver**](https://www.fig
 </div>
 </figure>
 
-## 🔧 Instalação e execução
-
-🚧 Em breve... 🚧
 
 ## 💡 Como contribuir
 
