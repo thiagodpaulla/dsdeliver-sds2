@@ -115,7 +115,7 @@ Pull requests são sempre bem-vindos. Em caso de dúvidas ou sugestões, crie um
 
 Entre em contato comigo por e-mail ou pelo meu LinkedIn:
 
-<a href="sesthi@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="sesthi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/thiagodepaulla//"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 
 ## 📝 Licença
