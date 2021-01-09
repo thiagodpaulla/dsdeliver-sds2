@@ -1,14 +1,15 @@
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import './App.css';
-import Home from './Components/Home/Home';
-import Navbar from './Components/Navbar/Navbar';
+import Routes from './Routes';
 
 function App() {
-	return (
-		<>
-			<Navbar />
-			<Home />
-		</>
-	);
+  return (
+    <>
+    <Routes />
+    <ToastContainer />
+    </>
+  );
 }
 
 export default App;
